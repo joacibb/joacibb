@@ -17,7 +17,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacibb)](https://github.com/joacibb/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/joacibb)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joacibb)  
-
