@@ -17,8 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacibb)](https://github.com/joacibb/github-readme-stats)
 
-[![Joacibb wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joacibb)](https://github.com/joacibb/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joacibb&show_icons=true&count_private=true&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/joacibb)  
