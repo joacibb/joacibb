@@ -9,10 +9,10 @@
 - 🎓 &nbsp; Estudio Ingenieria en Sistemas en la Universidad Nacional del Sur (Argentina).
 
 ### 💻 Stacks frontend
--HTML
--CSS
--JavaScript
--React
+- HTML
+- CSS
+- JavaScript
+- React
 
 ### 💻 Stacks backend
 
