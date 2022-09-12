@@ -8,9 +8,17 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías y adquiriendo nuevos conocimientos de programacion.
 - 🎓 &nbsp; Estudio Ingenieria en Sistemas en la Universidad Nacional del Sur (Argentina).
 
-### 💻 Stacks
+### 💻 Stacks frontend
+-HTML
+-CSS
+-JavaScript
+-React
+
+### 💻 Stacks backend
 
 - Springboot
+- Java
+- MySQL
 
 ![JoacibbDev github stats](https://github-readme-stats.vercel.app/api?username=joacibb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
