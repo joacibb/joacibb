@@ -1,7 +1,7 @@
 ### Hola 👋
 
 ### 💻 &nbsp;Mi Portfolio
-<a href="http://www.joaquincibanal.com.ar" target="_blank">Abrir web</a>
+<a href="https://www.joaquincibanal.com.ar/" target="_blank">Abrir web</a>
 
 ### 💻 &nbsp;Sobre mi
 
