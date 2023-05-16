@@ -8,18 +8,16 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías y adquiriendo nuevos conocimientos de programacion.
 - 🎓 &nbsp; Estudio Ingenieria en Sistemas en la Universidad Nacional del Sur (Argentina).
 
-### 💻 Gaming Stacks
-
-- C#
-
 ### 💻 Stacks frontend
 - HTML
 - CSS
 - JavaScript
 - React
+- React Native
 
 ### 💻 Stacks backend
 
+- NodeJS
 - Springboot
 - Java
 - MySQL
