@@ -1,16 +1,12 @@
-### Hola 👋
 
 ### 💻 &nbsp;Mi Portfolio
 <a href="https://www.joaquincibanal.com.ar/" target="_blank">Abrir web</a>
 
 ### 💻 &nbsp;Sobre mi
 
-- 🤔 &nbsp; Explorando nuevas tecnologías y adquiriendo nuevos conocimientos de programacion.
-- 🎓 &nbsp; Estudio Ingenieria en Sistemas en la Universidad Nacional del Sur (Argentina).
+- 🤔 &nbsp; Apasionado por la tecnología.
 
 ### 💻 Stacks frontend
-- HTML
-- CSS
 - JavaScript
 - React
 - React Native
@@ -20,7 +16,7 @@
 - NodeJS
 - Springboot
 - Java
-- MySQL
+- .NET 7 C# 
 
 ![JoacibbDev github stats](https://github-readme-stats.vercel.app/api?username=joacibb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
