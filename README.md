@@ -1,15 +1,12 @@
 
-### 💻 &nbsp;Mi Portfolio
+### 💻 &nbsp;Portfolio
 <a href="https://www.joaquincibanal.com.ar/" target="_blank">Abrir web</a>
 
-### 💻 &nbsp;Sobre mi
-
-- 🤔 &nbsp; Apasionado por la tecnología.
-
 ### 💻 Stacks frontend
-- JavaScript
-- React
-- React Native
+
+- ReactJS / React Native mobile
+-VueJS
+
 
 ### 💻 Stacks backend
 
