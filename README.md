@@ -5,15 +5,15 @@
 ### 💻 Stacks frontend
 
 - ReactJS / React Native mobile
--VueJS
+- VueJS
 
 
 ### 💻 Stacks backend
 
-- NodeJS
-- Springboot
-- Java
 - .NET 7 C# 
+- NodeJS
+- Python
+- Java
 
 ![JoacibbDev github stats](https://github-readme-stats.vercel.app/api?username=joacibb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
