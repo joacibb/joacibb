@@ -1,17 +1,13 @@
 <div align="center">
-
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Joaquín%20Cibanal&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descColor=8b949e" width="100%"/>
-
 <!-- Typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5+years+building+scalable+web+%26+mobile+apps;Vue.js+%7C+React+Native+%7C+.NET+%7C+Node.js;Turning+complex+problems+into+clean+solutions)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5+years+building+scalable+web+%26+mobile+apps;Vue.js+%7C+React+Native+%7C+.NET+%7C+Node.js;Turning+complex+problems+into+clean+solutions;Open+source+advocate+%26+free+software+believer)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
 ```ts
 const joaquin = {
   role:       "Full Stack Developer",
@@ -25,10 +21,9 @@ const joaquin = {
 > Desarrollador Full Stack con 5 años de experiencia diseñando y construyendo aplicaciones web y móviles de alto impacto. Me especializo en transformar requerimientos complejos de negocio en soluciones limpias, escalables y mantenibles.
 
 > Creo en el software libre y la colaboración abierta. La mayoría de mis proyectos personales son open source — si algo te sirve, usalo, mejoralo y compartilo.
-```
-```
-"Open source advocate & free software believer"
+
 ---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -55,14 +50,11 @@ const joaquin = {
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joacibb&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
-
-
 
 ---
 
@@ -78,7 +70,5 @@ const joaquin = {
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
 </div>
