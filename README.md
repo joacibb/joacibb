@@ -24,8 +24,11 @@ const joaquin = {
 
 > Desarrollador Full Stack con 5 años de experiencia diseñando y construyendo aplicaciones web y móviles de alto impacto. Me especializo en transformar requerimientos complejos de negocio en soluciones limpias, escalables y mantenibles.
 
+> Creo en el software libre y la colaboración abierta. La mayoría de mis proyectos personales son open source — si algo te sirve, usalo, mejoralo y compartilo.
+```
+```
+"Open source advocate & free software believer"
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
