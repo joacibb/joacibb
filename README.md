@@ -2,8 +2,9 @@
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Joaquín%20Cibanal&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descColor=8b949e" width="100%"/>
 <!-- Typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5+years+building+scalable+web+%26+mobile+apps;Vue.js+%7C+React+Native+%7C+.NET+%7C+Node.js;Turning+complex+problems+into+clean+solutions;Open+source+advocate+%26+free+software+believer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5+years+building+scalable+web+%26+mobile+apps;Vue.js+%7C+React+Native+%7C+.NET+%7C+Node.js;Turning+complex+problems+into+clean+solutions)](https://git.io/typing-svg)
 </div>
+---
 
 ---
 
